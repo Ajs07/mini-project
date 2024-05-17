@@ -1,0 +1,3 @@
+- Install XAMPP dari http://apachefriends.org
+- Browser Chrome
+- Akun GMAIL
